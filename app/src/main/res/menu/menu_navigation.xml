@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lokalizacja"
+        android:title="Lokalizacja"
+        android:icon="@drawable/ic_location"/>
+    <item
+        android:id="@+id/baza"
+        android:title="Baza"
+        android:icon="@drawable/ic_table"/>
+    <item
+        android:id="@+id/informacje"
+        android:title="Informacje"
+        android:icon="@drawable/ic_info"/>
+
+</menu>
